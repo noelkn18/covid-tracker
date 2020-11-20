@@ -1,6 +1,6 @@
 # Covid Tracker Project
 
-
+![covid pic](https://user-images.githubusercontent.com/52262312/99764494-0d436d00-2ab2-11eb-9a1a-2172e5ae536e.jpg)
 
 ## Live Site
 https://covid-trackerdemo.web.app/
